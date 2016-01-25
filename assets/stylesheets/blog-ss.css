@@ -96,7 +96,19 @@ a:hover {
   color: hotpink;
 }
 
+#entry1 {
+  margin-bottom: 36px;
+}
+
+#entry2 {
+  margin-bottom: 36px;
+}
+
 #entry1 img {
+  width: 800px;
+}
+
+#entry2 img {
   width: 800px;
 }
 /* -body */
