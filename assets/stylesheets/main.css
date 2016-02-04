@@ -126,6 +126,7 @@ a:hover {
 footer {
   clear: both;
   padding-left: 24px;
+  line-height:20px;
 }
 
 footer a:hover {
