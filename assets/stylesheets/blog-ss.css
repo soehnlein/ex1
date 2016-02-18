@@ -104,8 +104,17 @@ a:hover {
   margin-bottom: 36px;
 }
 
+img {
+  width: 800px;
+}
+
 .entry img {
   width: 800px;
+}
+
+.etc {
+  text-align: center;
+  margin-top: 64px;
 }
 /* -body */
 
